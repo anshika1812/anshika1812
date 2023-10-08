@@ -7,7 +7,7 @@ I'm Anshika Chhabra, an undergraduate student pursuing Bachelor of Technology in
 
  - 🔗 Connect with me on:
      (https://www.linkedin.com/in/anshika-chhabra-97ab05257)
-     [![My X (formerly Twitter) Profile](https://twitter.com/anshikachhabra_?t=3RrhUtepEoxbRAks5AzKbw&s=09)
+     (https://twitter.com/anshikachhabra_?t=3RrhUtepEoxbRAks5AzKbw&s=09)
 
  - ⚡ I'm contributing in Hacktoberfest'23 !!
 
