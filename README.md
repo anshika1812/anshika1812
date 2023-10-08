@@ -1,4 +1,4 @@
-Hey there!! 👋
+Hey there!! 👋🏻
 
 I'm Anshika Chhabra, an undergraduate student pursuing Bachelor of Technology in Computer Science & Engineering. 👧🏻💻
 
