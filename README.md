@@ -14,4 +14,4 @@ I'm ***Anshika Chhabra***, an undergraduate student pursuing Bachelor of Technol
 
   [![An image of @codegirl1812's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codegirl1812)](https://holopin.io/@codegirl1812)
 
-   ![](https://komarev.com/ghpvc/?username=anshika1812&style=plastic&color=8f152a) 👀
+   ![](https://komarev.com/ghpvc/?username=anshika1812&style=plastic&color=8f152a)
