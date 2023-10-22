@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=anshika1812&style=plastic&color=8f153c)
+![](https://komarev.com/ghpvc/?username=anshika1812&style=plastic&color=8f152a)
 
 ***Hey there!!*** 👋🏻                                                   
 
