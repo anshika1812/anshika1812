@@ -1,6 +1,4 @@
-![](https://komarev.com/ghpvc/?username=anshika1812&style=for-the-badge&color=8f153c)
-
-***Hey there!!*** 👋🏻
+***Hey there!!*** 👋🏻                                                   
 
 I'm ***Anshika Chhabra***, an undergraduate student pursuing Bachelor of Technology in Computer Science & Engineering. 👧🏻💻
 
@@ -15,3 +13,6 @@ I'm ***Anshika Chhabra***, an undergraduate student pursuing Bachelor of Technol
 - ⚡ I'm contributing in ***Hacktoberfest'23*** !!
 
   [![An image of @codegirl1812's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codegirl1812)](https://holopin.io/@codegirl1812)
+
+
+   ![](https://komarev.com/ghpvc/?username=anshika1812&style=for-the-badge&color=8f153c)
