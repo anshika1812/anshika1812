@@ -10,7 +10,7 @@ I'm ***Anshika Chhabra***, an undergraduate student pursuing Bachelor of Technol
    [![LinkedIn](icons8-linkedin.svg)](https://www.linkedin.com/in/anshika-chhabra-97ab05257)
    [![TwitterX](icons8-twitterx.svg)](https://twitter.com/anshikachhabra_?t=3RrhUtepEoxbRAks5AzKbw&s=09)
 
-- 👁️ ![](https://komarev.com/ghpvc/?username=anshika1812&style=for-the-badge)
+   ![](https://komarev.com/ghpvc/?username=anshika1812&style=for-the-badge&color=8f153c)
   
 - ⚡ I'm contributing in ***Hacktoberfest'23*** !!
 
