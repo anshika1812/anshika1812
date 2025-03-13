@@ -13,10 +13,12 @@ I'm an undergraduate student pursuing Bachelor of Technology in Computer Science
 - ⚡ I contributed during ***Hacktoberfest'23*** !!
 
   [![An image of @codegirl1812's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codegirl1812)](https://holopin.io/@codegirl1812)
+  <br><hr>
 
 - 🔥 Checkout my ***LeetCode*** Stats!
-  
-  ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=anshikachhabra_&animated=true&theme=monokai)
 
-   ![](https://komarev.com/ghpvc/?username=anshika1812&style=plastic&color=8f152a)
+  [![Leetcode Stats](https://leetcard.jacoblin.cool/anshikachhabra_?ext=heatmap)](https://leetcode.com/u/anshikachhabra_/)
+  <br><hr>
+  
+  ![](https://komarev.com/ghpvc/?username=anshika1812&style=plastic&color=8f152a)
 
