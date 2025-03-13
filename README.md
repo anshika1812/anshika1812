@@ -17,7 +17,7 @@ I'm an undergraduate student pursuing Bachelor of Technology in Computer Science
 
 - 🔥 Checkout my ***LeetCode*** Stats!
 
-  [![Leetcode Stats](https://leetcard.jacoblin.cool/anshikachhabra_?ext=heatmap)](https://leetcode.com/u/anshikachhabra_/)
+  [![Leetcode Stats](https://leetcard.jacoblin.cool/anshikachhabra_?ext=heatmap&theme=dark&border=3&radius=12)](https://leetcode.com/u/anshikachhabra_/)
   <br><hr>
   
   ![](https://komarev.com/ghpvc/?username=anshika1812&style=plastic&color=8f152a)
