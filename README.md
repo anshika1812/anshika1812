@@ -15,7 +15,7 @@ I'm an undergraduate student pursuing Bachelor of Technology in Computer Science
   [![An image of @codegirl1812's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codegirl1812)](https://holopin.io/@codegirl1812)
   <br><hr>
 
-- 🔥 Checkout my ***LeetCode*** Stats!
+- 🔥 Check out my ***LeetCode*** Stats !
 
   [![Leetcode Stats](https://leetcard.jacoblin.cool/anshikachhabra_?ext=heatmap&theme=dark&border=3&radius=12)](https://leetcode.com/u/anshikachhabra_/)
   <br><hr>
