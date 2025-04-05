@@ -17,8 +17,6 @@ I'm an undergraduate student pursuing Bachelor of Technology in Computer Science
 
 - 🔥 Check out my ***LeetCode*** Stats !
 
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=anshikachhabra_&theme=dark&animated=true" alt="LeetCode Badges" />
-  <br>
   [![Leetcode Stats](https://leetcard.jacoblin.cool/anshikachhabra_?ext=heatmap&theme=dark&border=3&radius=12)](https://leetcode.com/u/anshikachhabra_/)
   <br><hr>
   
